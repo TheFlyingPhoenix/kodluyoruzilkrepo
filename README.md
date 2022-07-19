@@ -22,4 +22,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
  ## License
  [MIT](https://choosealicense.com/licenses/mit/)
 
- ![Block](mdimage.jpg)
+ ![Block](img/mdimage.jpg)
